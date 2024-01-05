@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module adventuregame1 {
+}
